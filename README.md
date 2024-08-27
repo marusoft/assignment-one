@@ -8,7 +8,7 @@
 
 
 #### DEMO LINK
-[Assignment-one](example-link.com)
+[Assignment-one](https://marusoft.github.io/assignment-one/)
 
 #### Author
 - Alimi Kehinde
